@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322669640717",
+    "project_id": "avesdgo-4c527",
+    "storage_bucket": "avesdgo-4c527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669640717:android:e836058ea19a8509af6944",
+        "android_client_info": {
+          "package_name": "com.example.avesdgo_bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669640717-ibpt4br32s23d4ap8055or9la8gtrqag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCBNd17XaNzgJ_A7wLx91u1yrSdwAjLXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669640717-ibpt4br32s23d4ap8055or9la8gtrqag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

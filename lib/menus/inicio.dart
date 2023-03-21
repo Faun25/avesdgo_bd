@@ -1,6 +1,7 @@
 import 'package:avesdgo_bd/paginas/listadatos.dart';
 import 'package:flutter/material.dart';
 
+import '../paginas/fotos.dart';
 import '../paginas/splashscreen.dart';
 
 class Inicio extends StatefulWidget {
@@ -14,7 +15,7 @@ class MiInicio extends State<Inicio> {
   int _selectedIndex = 0;
   final List<Widget> _children = [
     ListaDatos(),
-    Inicio()
+    Fotos()
   ];
 
   void _onItemTapped(int index) {

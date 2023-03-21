@@ -11,7 +11,7 @@ class ListaDatos extends StatelessWidget {
           title: Text('Aves Durango'),
         ),
         body: StreamBuilder<QuerySnapshot>(
-            stream: FirebaseFirestore.instance.collection('avesdgo').snapshots(),
+            stream: FirebaseFirestore.instance.collection('Avesdgo').snapshots(),
             builder: (BuildContext context,AsyncSnapshot<QuerySnapshot> snapshot) {
               if (!snapshot.hasData) {
                 return Center(

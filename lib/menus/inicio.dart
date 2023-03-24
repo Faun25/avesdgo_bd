@@ -1,6 +1,5 @@
 import 'package:avesdgo_bd/paginas/listadatos.dart';
 import 'package:flutter/material.dart';
-
 import '../paginas/fotos.dart';
 import '../paginas/splashscreen.dart';
 

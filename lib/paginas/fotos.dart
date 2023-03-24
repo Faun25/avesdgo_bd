@@ -20,7 +20,7 @@ class MisFotos extends State<Fotos>{
   String reffoto="";
   String nomfoto="";
 
-  Datos? dat=Datos("","","","");
+  Datos? dat=Datos("","","","","");
 
   Future<void> showSelectionDialog(BuildContext context){
     return showDialog(
